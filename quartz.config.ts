@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://ladslaw.github.io/os-anais-de-carvalho",
+    baseUrl: "https://ladslaw.github.io/os-anais-de-carvalho/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
