@@ -16,7 +16,11 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
+<<<<<<< Updated upstream
     baseUrl: "https://ladslaw.github.io/os-anais-de-carvalho/",
+=======
+    baseUrl: "https://ladslaw.github.io/os-anais-de-carvalho",
+>>>>>>> Stashed changes
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

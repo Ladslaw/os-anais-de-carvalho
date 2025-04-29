@@ -1,0 +1,5 @@
+Uma rede de túneis naturais que serpenteia através das entranhas da montanha, conectando diferentes regiões do reino anão.
+
+As Passagens de Eledhrûm, nomeadas em homenagem ao lendário explorador anão [[Eledh Pé-Leve]] que as mapeou pela primeira vez, sempre foram consideradas um local de mistério e perigo. Diferente dos túneis e salões meticulosamente escavados e reforçados pelos anões, estas passagens foram formadas naturalmente por rios subterrâneos e movimentos tectônicos ao longo de milênios. Seus túneis sinuosos, frequentemente estreitos e instáveis, se estendem por dezenas de quilômetros sob a cordilheira, alcançando profundidades onde o calor da terra torna o ar quase irrespirável.
+
+Por gerações, as Passagens foram utilizadas principalmente por exploradores, mensageiros que precisavam viajar rapidamente entre assentamentos distantes, e mineradores em busca de novos veios. Embora perigosas devido a desmoronamentos ocasionais e à presença de criaturas subterrâneas menores como os [[Rastejantes de Pedra]], nunca representaram uma ameaça existencial ao reino.
