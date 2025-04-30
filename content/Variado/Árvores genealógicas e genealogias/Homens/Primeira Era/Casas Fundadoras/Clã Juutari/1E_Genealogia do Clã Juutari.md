@@ -1,7 +1,7 @@
 #arvoregenealogica #primeiraera 
 
 ---
-
+![[1E_Árvore do Clã Juutari.excalidraw.png]]
 **Fundação:** 1910 D.D  
 **Origem:** Da mesma linhagem dos Turalhir, os Juutari são altos, pálidos, de cabelos dourados e olhos claros. Veneram as estrelas e sua linhagem tem forte tradição mística e nobre.  
 **Estilo de nomes:** Extravagantes, sonoros e frequentemente com sons élficos.

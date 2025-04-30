@@ -1,7 +1,7 @@
 #arvoregenealogica #primeiraera 
 
 ---
-**Fundador:** Amarath, o Ágil († 1950 D.D)  
+![[1E_Árvore do Clã Uirandur.excalidraw.png]]**Fundador:** Amarath, o Ágil († 1950 D.D)  
 **Origem:** Primeira Era  
 **Temas:** Rios, lagos, mares, mobilidade, espiritualidade aquática  
 **Características:** Pele bronzeada, olhos azul-acinzentados, cabelos escuros prateados  

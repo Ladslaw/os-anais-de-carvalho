@@ -1,7 +1,7 @@
 #arvoregenealogica #primeiraera
 
 ---
-
+![[1E_Árvore do Clã Talainor.excalidraw.png]]
 # [[Talainor]], o Cruel  
 _Fundador da Casa Talainor – falecido em D.D 2004_
 

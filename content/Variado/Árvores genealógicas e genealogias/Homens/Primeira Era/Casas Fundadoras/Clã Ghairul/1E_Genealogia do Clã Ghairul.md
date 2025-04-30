@@ -2,37 +2,37 @@
 
 ---
 **Fundador:** Baendur, o Grande († 2007 D.D)
-
+![[1E_Árvore do Clã Ghairul.excalidraw.png]]
 Povo guerreiro, de nomes quase anânicos, reverenciam a força, a honra em batalha e a lealdade à linhagem. Vivem em regiões montanhosas e fronteiriças.
 
 # Baendur, o Grande (†2007)
-├── Daravur
-│   ├── Huabi ( casou-se com Aglare)
-│   │   └── Marasûl → Antecessor dos Arqueiros da Torre de Marasûl
-│   │       └── Sur'Marasûl
-│   │           └── Marasîl
-│   │               └── Ghalded
-│   │                   ├── Sur-paem'Marasûl
-│   │                   ├── Kvalded
-│   │                   └── Haleg
-├── Golnar
-│   └── Orvel
-│       └── Burmeg
-│           └── Güyur → Fundador dos [[Arrith]]
-│               └── Lathene
-│                   └── Feïs
-│                       ├── Otendur
-│                       │   └── baen'Hored → Primeiro Homem de Pedra (Fundador de Baleror)
-│                       └── Pasuan
-├── Hagrun
-│   └── Baldrik
-│       └── Maerun
-│           └── Belkie + Ametherion (Clã Juutari)
-│               └── Saenora
-└── Benkur
-    └── Maldrun
-        └── Sur'Benkur + Thëryna (Clã Juutari) → Fundador da [[Os Anais de Carvalho/Variado/Organizações, Casas e Outros/Casas e Facções/Primeira Era/Casa do'Benkur]]
-            └── Ametherion
+-  Daravur
+	- Huabi ( casou-se com Aglare)
+		- Marasûl → Antecessor dos Arqueiros da Torre de Marasûl
+			-  Sur'Marasûl
+				- Marasîl
+					- Ghalded
+						- Sur-paem'Marasûl
+						- Kvalded
+						-  Haleg
+-  Golnar
+	- Orvel
+		- Burmeg
+			- Güyur → Fundador dos [[Arrith]]
+				- Lathene
+					 - Feïs
+						 -  Otendur
+							- baen'Hored → Primeiro Homem de Pedra (Fundador de Baleror)
+						- Pasuan
+-  Hagrun
+	- Baldrik
+		 - Maerun
+			-  Belkie + Ametherion (Clã Juutari)
+				-  Saenora
+- Benkur
+	- Maldrun
+		-  Sur'Benkur + Thëryna (Clã Juutari) → Fundador da [[Os Anais de Carvalho/Variado/Organizações, Casas e Outros/Casas e Facções/Primeira Era/Casa do'Benkur]]
+			- Ametherion
 
 
 
